@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarammenezes&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarammenezes&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/clarammenezes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarammenezes&show_icons=true&theme=bear&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarammenezes&langs_count=10&theme=bear"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg">
