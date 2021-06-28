@@ -25,9 +25,10 @@
   <img align="center" alt="java-script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg">
 </p>
   <br>
+  <br>
 <a href="https://github.com/clarammenezes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarammenezes&show_icons=true&theme=dracula&include_all_commits=true&title_color=fffff1&bg_color=DEG,f38c8e,E6d0cf"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarammenezes&langs_count=10&theme=dracula&title_color=fffff1&bg_color=DEG,f38c8e,E6d0cf"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarammenezes&langs_count=10&theme=dracula&layout=compact&title_color=fffff1&bg_color=DEG,f38c8e,E6d0cf"/> 
 
   <br>
 <div> 
