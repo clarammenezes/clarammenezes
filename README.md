@@ -28,7 +28,7 @@
   <br>
 <a href="https://github.com/clarammenezes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarammenezes&show_icons=true&theme=dracula&include_all_commits=true&title_color=fffff1&bg_color=DEG,f38c8e,E6d0cf"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarammenezes&langs_count=10&theme=dracula&layout=compact&title_color=fffff1&bg_color=DEG,f38c8e,E6d0cf"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarammenezes&langs_count=10&theme=dracula&title_color=fffff1&bg_color=DEG,f38c8e,E6d0cf"/> 
 
   <br>
 <div> 
