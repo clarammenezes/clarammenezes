@@ -26,16 +26,7 @@
 </p>
   <br>
   <br>
-<p align="space-between"> <br>
-    <a href="https://github.com/clarammenezes">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarammenezes&show_icons=true&theme=graywhite&include_all_commits=true&icon_color=b4d1fc&text_color=2D2D2D&title_color=fffff1&bg_color=DEG,f38c8e,E6d0cf" style="max-width:100%;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarammenezes&layout=compact&theme=graywhite&title_color=fffff1&bg_color=DEG,f38c8e,E6d0cf" style="max-widht:100%">
-    </a>
-</p>    
 
-
-
-  <br>
 <div> 
 
  </div>
