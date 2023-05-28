@@ -6,7 +6,7 @@
 # Oii! Eu sou a Clara! ![hedgehog](https://user-images.githubusercontent.com/61317250/118311580-7ab2e200-b4c6-11eb-98f5-0495e8e5a7cc.gif)
 <br>
 # 💫 About Me:
-Currently learning Go, Java, C#, Kotlin
+Currently learning Go, Java, C#
 
 
 ## 🌐 Socials:
