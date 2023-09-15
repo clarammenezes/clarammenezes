@@ -20,8 +20,8 @@ Currently learning Angular, AngularJS, Java, Docker
 <div align="left">
   <a href="https://github.com/clarammenezes">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarammenezes&show_icons=true&theme=onedark&hide_border=false&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarammenezes&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarammenezes&show_icons=true&theme=onedark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarammenezes&layout=compact&langs_count=7&theme=onedark&count_private=true"/>
 </div>
 
 
