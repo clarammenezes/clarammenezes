@@ -10,7 +10,7 @@
 
 
 # 💫 About Me:
-Currently learning Kafka and Springboot
+Software Developer at a multinacional company, where I’m gaining hands-on experience building scalable and impactful applications. Constantly learning and growing.
 
 
 ## 🌐 Socials:
