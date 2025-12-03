@@ -23,8 +23,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=clarammenezes&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=clarammenezes&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- Serviço github-readme-stats.vercel.app está pausado (503).
+Quando voltar, tirar o comentário abaixo. -->
+
+<!--
 ## ⌨️ Top Langs
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=claramenezes&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=clarammenezes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
