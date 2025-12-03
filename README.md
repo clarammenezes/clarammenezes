@@ -3,10 +3,11 @@
 # Hii! I'm Clara! 
 ![hedgehog](https://user-images.githubusercontent.com/61317250/118311580-7ab2e200-b4c6-11eb-98f5-0495e8e5a7cc.gif)
 <br>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/83125929/123564771-063fb400-d791-11eb-8733-0e2e1b65dbe0.png" style="width:350px; height:350px; max-width:100%;">
+  <!--<img src="https://user-images.githubusercontent.com/83125929/123564771-063fb400-d791-11eb-8733-0e2e1b65dbe0.png" style="width:350px; height:350px; max-width:100%;">-->
+  <img src="https://i.pinimg.com/originals/17/28/5f/17285fc448d970cdd53b1b3ba11d7e66.gif" style="width:350px; height:350px; max-width:100%;">
 </p>
+
 
 
 # 💫 About Me:
@@ -40,7 +41,9 @@ Quando voltar, tirar o comentário abaixo. -->
 
 
 ---
-![Profile Views](https://visitcount.itsvg.in/api?id=claramenezes)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/18/e2/ad/18e2ad83b882cee8be192754e245bb9e.gif" style="max-width:100%;">
+</p>
 
 
 
